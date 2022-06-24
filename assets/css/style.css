@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+header {
+    background-image: linear-gradient(rgb(50, 182, 235), rgb(16, 94, 238) ) ;
+}
+
+.title {
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 0;
+    font-weight: bolder;
+}
+
+.sub-title{
+    margin: 10px 0 0 0;
+    font-size: 20px;
+}
+
+.search-btn{
+    background-image: linear-gradient(rgb(50, 182, 235), rgb(16, 94, 238) ) ;
+    opacity: 0.8;
+}
+
+.search-btn:hover {
+    opacity: 1;
+}
+
+.today-container{
+    margin: 30px 0px;
+}
+
+.form-container{
+    border-bottom: 1px solid;
+}
+
